@@ -3,8 +3,9 @@ name: harmony-synthesis
 description: When faced with apparently contradictory positions, seek the higher viewpoint that reconciles them into a harmonious whole. Leibniz was famous for seeking to unite opposites - rationalism and empir...
 license: MIT
 metadata:
+  version: 1.0.4143
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - harmony-synthesis
 - structure
